@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sun, Zhen
-    tagline: Blockchain Developer, Data Analyst
+    tagline: Blockchain Developer,   Data Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -81,7 +81,7 @@ education:
 experiences:
     - role: Blockchain Developer
       time: 2017 - 2018
-      company: Golden West Capital, Inc. && Sumunity, Inc. California, USA
+      company: Golden West Capital, Inc. && Sumunity, Inc. - California, USA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -98,7 +98,7 @@ experiences:
 
     - role: Data Analyst
       time: 2015 - 2017
-      company: Golden West Capital, Inc. California, USA
+      company: Golden West Capital, Inc. - California, USA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
