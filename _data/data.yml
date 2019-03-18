@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sun, Zhen
     tagline: Data Analyst and Scientist, Blockchain Developer
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sunzhen1135@gmail.com 
@@ -156,13 +156,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 80%
+        level: 85%
 
       - name: Golang
-        level: 90%
+        level: 95%
 
       - name: Machine Learning
-        level: 90%
+        level: 95%
 
       - name: Blockchain
         level: 90%
