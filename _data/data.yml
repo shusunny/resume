@@ -43,13 +43,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Software Engineer with thorough hands-on experience in object-oriented 
+      analysis, design and development. Ability to program bug-free code on 
+      deadline, troubleshoot and engineer well-researched, cost-effective and 
+      responsive solutions. Have interest in designing and crafting efficient 
+      modern software, and learning new technologies and tools if need arises. 
+      Current areas of focus are Data Mining, Data Visualization, Machine 
+      Learning and Database Management.
 
-      Second paragraph if required.
+      Solutions-driver programmer with a three-year record of commended 
+      performance in modular and object-oriented programming. Proven ability 
+      to manage complete project lifecycles, from inception and needs 
+      determination through design and development, to final implementation 
+      and user training.
 
 education:
     - degree: MBA in Statistics and Data Analytics 
@@ -120,7 +126,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
 
           - Bullet point
-          - Bullet point
+          - Built classifiers to identify 26 English letters with accuracy up to 89.41% when recognizing the testing data.
 
 projects:
     title: Projects
@@ -131,16 +137,16 @@ projects:
 
     assignments:
       - title: Machine Learning Models
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: https://github.com/shusunny/python-project/tree/master/machine-learning
+        tagline: "A github folder displays some of my machine learning models including Regression, Classification and Dimensionality Reduction."
 
       - title: RNN Prediction Model
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: https://github.com/shusunny/python-project/tree/master/RNN-predict-model
+        tagline: "A RNN model I build to predict bitcoin price trend. This model uses the previous daysteps of data to predict the next day's price."
 
       - title: Golang Blockchain
         link: https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain
-        tagline: "A simple blockchain program for library system made with golang, include the basic ideas such as Hash, Validation and Web Server"
+        tagline: "A simple blockchain program for library system made with golang, include the basic ideas such as Hash, Validation and Web Server."
 
 # publications:
 #    title: Publications
@@ -161,14 +167,24 @@ skills:
       - name: Golang
         level: 95%
 
+      - name: Blockchain
+        level: 80%
+
       - name: Machine Learning
         level: 95%
 
-      - name: Blockchain
-        level: 90%
-
       - name: Deep Learning
         level: 75%
+
+      - name: SQL(PostgreSQL/MongoDB)
+        level: 85%  
+
+      - name: AWS/Google Cloud
+        level: 90%  
+
+      - name: Web Development
+        level: 80%  
+
 
 
 #footer: >
