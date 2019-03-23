@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sun, Zhen
     tagline: Data Analyst and Scientist, Blockchain Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: data_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sunzhen1135@gmail.com 
@@ -176,7 +176,7 @@ skills:
       - name: Deep Learning
         level: 75%
 
-      - name: SQL(PostgreSQL/MongoDB)
+      - name: SQL/MongoDB
         level: 85%  
 
       - name: AWS/Google Cloud
