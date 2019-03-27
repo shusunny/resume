@@ -91,9 +91,9 @@ experiences:
       details: |
         Worked for both companies in Blockchain and Data fields.
 
-        - Helped develop the crypto currency algorithm and DApps.
-        - Developed a regression model to predict the future revenue.
-        - Used Deep Learning models like RNN to predict the trends of bitcoin.  
+          - Helped develop the crypto currency algorithm and DApps.
+          - Developed a regression model to predict the future revenue.
+          - Used Deep Learning models like RNN to predict the trends of bitcoin.  
 
     - role: Data Analyst
       time: 2015 - 2017
@@ -101,9 +101,9 @@ experiences:
       details: |
         Served as a Data Analyst and Scientist, improved  business operation efficiency by targeting customers.
 
-        - Used data analytics to decide proper rent for each potential tenant, increased prospective tenants by 118%
-        - Built a model to find the best ad to present with UCB algorithm, improved CTR(Click-Through Rate) by 50%
-        - Prepared visualized reports using SQL, Excel and Python libraries for the CEO, COO, and Board of Directors.
+          - Used data analytics to decide proper rent for each potential tenant, increased prospective tenants by 118%
+          - Built a model to find the best ad to present with UCB algorithm, improved CTR(Click-Through Rate) by 50%
+          - Prepared visualized reports using SQL, Excel and Python libraries for the CEO, COO, and Board of Directors.
 projects:
     title: Projects
     intro: >
