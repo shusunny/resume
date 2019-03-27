@@ -78,12 +78,12 @@ education:
       time: 2010 - 2014
       details: |
 
-      - Mathematical Analysis
-      - Advanced Algebra
-      - Statistics
-      - C/C++ Program
-      - Oracle
-      - Matlab
+        - Mathematical Analysis
+        - Advanced Algebra
+        - Statistics
+        - C/C++ Program
+        - Oracle
+        - Matlab
 
 experiences:
     - role: Senior Data Analyst and Developer
