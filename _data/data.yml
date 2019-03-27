@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sunzhen1135@gmail.com 
-    # phone: 012 345 6789
+    phone: 951 313 3418
     website: shusunny.github.io/ #do not add http://
     linkedin: shusunny
     github: shusunny
@@ -43,97 +43,72 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software Engineer with thorough hands-on experience in object-oriented 
-      analysis, design and development. Ability to program bug-free code on 
-      deadline, troubleshoot and engineer well-researched, cost-effective and 
-      responsive solutions. Have interest in designing and crafting efficient 
-      modern software, and learning new technologies and tools if need arises. 
-      Current areas of focus are Data Mining, Data Visualization, Machine 
-      Learning and Database Management.
+      A solution-driven programmer with strong mathematical background and 
+      statistics skills, focus on solving business challenges by utilizing 
+      related information, human resource and data assets. Specialized in 
+      Statistics, Blockchain, Data Visualization, Machine Learning and Neural Network.
 
-      Solutions-driver programmer with a three-year record of commended 
-      performance in modular and object-oriented programming. Proven ability 
-      to manage complete project lifecycles, from inception and needs 
-      determination through design and development, to final implementation 
-      and user training.
+      Proven ability to manage complete project lifecycle, from inception and 
+      needs determination through design and development, to final implementation. 
+      Provide well-researched, efficient and responsive solutions for business 
+      problems.
 
 education:
     - degree: MBA in Statistics and Data Analytics 
       university: Westcliff University - Irvine, CA
       time: 2018 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+      - Research Design for Data Analysis
+      - Statistics for Data Science
+      - Fundamentals of Data Engineering
           
     - degree: Post Graduate Diploma in Management
       university: University of California, Riverside - Riverside, CA
       time: 2014 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+      - Accounting
+      - Financial Management
+      - SQL server
 
     - degree: BS in Information and Computing Science
       university: Shanghai University - Shanghai, China
       time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+      - Mathematical Analysis
+      - Advanced Algebra
+      - Statistics
+      - C/C++ Program
+      - Oracle
+      - Matlab
 
 experiences:
-    - role: Blockchain Developer
+    - role: Senior Data Analyst and Developer
       time: 2017 - 2018
       company: Golden West Capital, Inc. && Sumunity, Inc. - Pasadena, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Worked for both companies in Blockchain and Data fields.
 
-          - Bullet point
-          - Bullet point 
+        - Helped develop the crypto currency algorithm and DApps.
+        - Developed a regression model to predict the future revenue.
+        - Used Deep Learning models like RNN to predict the trends of bitcoin.  
 
     - role: Data Analyst
       time: 2015 - 2017
       company: Golden West Capital, Inc. - Ontario, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Served as a Data Analyst and Scientist, improved  business operation efficiency by targeting customers.
 
-          - Bullet point
-          - Built classifiers to identify 26 English letters with accuracy up to 89.41% when recognizing the testing data.
-
+        - Used data analytics to decide proper rent for each potential tenant, increased prospective tenants by 118%
+        - Built a model to find the best ad to present with UCB algorithm, improved CTR(Click-Through Rate) by 50%
+        - Prepared visualized reports using SQL, Excel and Python libraries for the CEO, COO, and Board of Directors.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here shows some of my sample works. Click the project name to get the detail 
+      information of the project. 
 
     assignments:
       - title: Machine Learning Models
