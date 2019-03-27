@@ -46,7 +46,8 @@ career-profile:
       A solution-driven programmer with strong mathematical background and 
       statistics skills, focus on solving business challenges by utilizing 
       related information, human resource and data assets. Specialized in 
-      Statistics, Blockchain, Data Visualization, Machine Learning and Neural Network.
+      Statistics, Blockchain, Data Visualization, Machine Learning and Neural 
+      Network.
 
       Proven ability to manage complete project lifecycle, from inception and 
       needs determination through design and development, to final implementation. 
@@ -59,18 +60,18 @@ education:
       time: 2018 - present
       details: |
 
-      - Research Design for Data Analysis
-      - Statistics for Data Science
-      - Fundamentals of Data Engineering
+        - Research Design for Data Analysis
+        - Statistics for Data Science
+        - Fundamentals of Data Engineering
           
     - degree: Post Graduate Diploma in Management
       university: University of California, Riverside - Riverside, CA
       time: 2014 - 2015
       details: |
 
-      - Accounting
-      - Financial Management
-      - SQL server
+        - Accounting
+        - Financial Management
+        - SQL server
 
     - degree: BS in Information and Computing Science
       university: Shanghai University - Shanghai, China
@@ -104,6 +105,7 @@ experiences:
           - Used data analytics to decide proper rent for each potential tenant, increased prospective tenants by 118%
           - Built a model to find the best ad to present with UCB algorithm, improved CTR(Click-Through Rate) by 50%
           - Prepared visualized reports using SQL, Excel and Python libraries for the CEO, COO, and Board of Directors.
+
 projects:
     title: Projects
     intro: >
