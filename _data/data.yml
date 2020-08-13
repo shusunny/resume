@@ -19,7 +19,7 @@ sidebar:
     github: shusunny
     gitlab:
     bitbucket:
-    twitter: '@sunzhen35'
+    twitter: # '@sunzhen35'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -55,6 +55,17 @@ career-profile:
       problems.
 
 education:
+
+    - degree: Master of Computer Science
+      university: California State University, Northridge - Northridge, CA
+      time: 2019 - 2021
+      details: |
+
+        - Algorithm Design and Optimization
+        - Database Design and Inquiry
+        - Data Mining and Machine Learning
+        - Websites and Software development
+        - Data Modeling and Visualization
           
     - degree: Post Graduate Diploma in Management
       university: University of California, Riverside - Riverside, CA
@@ -74,8 +85,7 @@ education:
         - Advanced Algebra
         - Statistics
         - C/C++ Program
-        - Oracle
-        - Matlab
+        - Matlab 
 
 experiences:
     - role: Senior Data Analyst and Developer
@@ -84,9 +94,10 @@ experiences:
       details: |
         Worked for both companies in Blockchain and Data fields.
 
-          - Helped develop the crypto currency algorithm and DApps.
+          - Performed data ETL approach to business analysis and model visualization.
           - Developed a regression model to predict the future revenue.
-          - Used Deep Learning models like RNN to predict the trends of bitcoin.  
+          - Used Deep Learning models like RNN to predict the trends of bitcoin.
+          - Helped develop the crypto currency algorithm and DApps.
 
     - role: Data Analyst
       time: 2015 - 2017
@@ -116,6 +127,12 @@ projects:
       - title: Golang Blockchain
         link: https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain
         tagline: "A simple blockchain program for library system made with golang, include the basic ideas such as Hash, Validation and Web Server."
+
+      - title: Covid-19 data visualization
+        link: https://github.com/shusunny/python-project/tree/master/nCovReport
+        tagline: "A python program to track the latest CoronaVirus data from covidtracking.com and visualize these data with trend lines."
+
+
 
 # publications:
 #    title: Publications
