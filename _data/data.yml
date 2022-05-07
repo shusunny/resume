@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Sun, Zhen
-    tagline: Data Analyst and Scientist, Blockchain Developer
-    avatar: profile.svg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Data Analyst/Scientist
+    avatar: niu1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sunzhen1135@gmail.com 
@@ -28,7 +28,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Advanced
         
     interests:
       - item: Travel
@@ -43,133 +43,130 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A solution-driven programmer with strong mathematical background and 
-      statistics skills, focus on solving business challenges by utilizing 
-      related information, human resource and data assets. Specialized in 
-      Statistics, Blockchain, Data Visualization, Machine Learning and Neural 
-      Network.
+      A solution-driven data scientist/analyst focus on solving business challenges by mining deep information 
+      from data. Actively seeking full time/internship opportunities in data science and software engineering.
 
-      Proven ability to manage complete project lifecycle, from inception and 
-      needs determination through design and development, to final implementation. 
-      Provide well-researched, efficient and responsive solutions for business 
-      problems.
+      Proficient in managing the entire data science project life cycle and actively involved in all the phases 
+      including data acquisition, data processing, features scaling, model construction, evaluation and data 
+      visualization. Specialized in Statistics Analysis, Data Mining, Machine Learning, NLP tasks, Blockchain and Cryptocurrency.
 
 education:
 
     - degree: Master of Computer Science
       university: California State University, Northridge - Northridge, CA
-      time: 2019 - 2021
+      #time: 2019 - 2022
       details: |
-
-        - Algorithm Design and Optimization
-        - Database Design and Inquiry
-        - Data Mining and Machine Learning
-        - Websites and Software development
-        - Data Modeling and Visualization
+      Coursework: Computer Arch, Computation Theory, Database, Data Structure & Algorithm, Data Mining, Machine Learning, NLP
           
     - degree: Post Graduate Diploma in Management
       university: University of California, Riverside - Riverside, CA
-      time: 2014 - 2015
+      #time: 2014 - 2015
       details: |
 
-        - Accounting
-        - Financial Management
-        - SQL server
-
-    - degree: BS in Information and Computing Science
+    - degree: B.S. in Information and Computing Science
       university: Shanghai University - Shanghai, China
-      time: 2010 - 2014
+      #time: 2010 - 2014
       details: |
-
-        - Mathematical Analysis
-        - Advanced Algebra
-        - Statistics
-        - C/C++ Program
-        - Matlab 
+      Coursework: Calculus, Algebra, Statistics, Probability theory, Oracle, C/C++, MATLAB
 
 experiences:
-    - role: Data Analyst and Developer
+    - role: Market Research Analyst
+      time: 2017 - Present
+      company: Self-employed
+      details: |
+        - Build cryptocurrency trading systems by modeling and monitoring trading data and metrics across exchanges.
+        - Trace and forecast future market trends by developing qualitative and quantitative research.
+        - Identify potential opportunities like DeFi and NFTs by collecting information from various sources.
+
+    - role: Data Analyst / Blockchain Developer
       time: 2017 - 2018
-      company: Golden West Capital, Inc. && Sumunity, Inc. - Pasadena, CA
+      company: Golden West Capital, Inc. & Sumunity, Inc. - Pasadena, CA
       details: |
         Worked for both companies in Blockchain and Data fields.
-
-          - Performed data ETL approach to business analysis and model visualization.
-          - Developed a regression model to predict the future revenue.
-          - Used Deep Learning models like RNN to predict the trends of bitcoin.
-          - Helped develop the crypto currency algorithm and DApps.
+        - Perform data ETL approach and prepare visualized business reports.
+        - Predict the possible revenue by collecting and modeling business data from similar fields.
+        - Trace and find market trends and idea product by tracing latest information from various sources.
+        - Improved algorithm in some crypto currencies and deploy competitive DApps on Ethereum.
 
     - role: Data Analyst
-      time: 2015 - 2017
+      time: 2015 - 2018
       company: Golden West Capital, Inc. - Ontario, CA
       details: |
-        Served as a Data Analyst and Scientist, improved  business operation efficiency by targeting customers.
-
-          - Used data analytics to decide proper rent for each potential tenant, increased prospective tenants by 118%
-          - Built a model to find the best ad to present with UCB algorithm, improved CTR(Click-Through Rate) by 50%
-          - Prepared visualized reports using SQL, Excel and Python libraries for the CEO, COO, and Board of Directors.
+        Served as a Data Analyst, improved business operation efficiency by targeting customers.
+        - Use data mining method to decide proper rent for each potential tenant, increased prospective rent by 26%
+        - Build model to find the best ad to put on social media with UCB algorithm, improved CTR(Click-Through Rate) by 50%
+        - Prepare visualized business reports for supervisor and board of directors.
+        - Help improved encryption of a cryptocurrency with double-Scrypt algorithm.
+    
+    - role: Data Analyst Intern
+      time: 2012 - 2014
+      company: China Gold Group Corporation - Zhengzhou, China
+      details: |
+        - Trace and moniter volatile gold price by developing qualitative and quantitative research.
+        - Find Arbitrage opportunities on gold futures.
 
 projects:
     title: Projects
     intro: >
-      Here shows some of my sample works. Click the project name to get the detail 
-      information of the project. 
+      Here shows some of my project works. Click the project name to get the detail information on it. 
 
     assignments:
-      - title: Machine Learning Models
-        link: https://github.com/shusunny/python-project/tree/master/machine-learning
-        tagline: "A github folder displays some of my machine learning models including Regression, Classification and Dimensionality Reduction."
+      - title: Assessments of Transformer Fine-tune on Summarization
+        link: https://github.com/shusunny/Fine-tune-Transformer-summarization
+        tagline: "Research assessments use several pretrained transformers checkpoints from Huggingface API, 
+        downstreaming and fine-tuning to text summarization tasks and evaluating the performance including T5, T5-small, 
+        BART, Encoder-Decoder model with BERT, and ProphetNet."
 
-      - title: RNN Prediction Model
-        link: https://github.com/shusunny/python-project/tree/master/RNN-predict-model
-        tagline: "A RNN model I build to predict bitcoin price trend. This model uses the previous daysteps of data to predict the next day's price."
-
-      - title: Golang Blockchain
-        link: https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain
-        tagline: "A simple blockchain program for library system made with golang, include the basic ideas such as Hash, Validation and Web Server."
-
-      - title: Covid-19 data visualization
+      - title: Covid-19 Data Visualization
         link: https://github.com/shusunny/python-project/tree/master/nCovReport
-        tagline: "A python program to track the latest CoronaVirus data from covidtracking.com and visualize these data with trend lines."
+        tagline: "Data visualization of the latest Covid-19 data from covidtracking.com and linear plot the trend lines."
+      
+      - title: Bitcoin Price Prediction with LSTM
+        link: https://github.com/shusunny/python-project/tree/master/RNN-predict-model
+        tagline: "A RNN model built with stacked LSTM to predict the trend of bitcoin price. This model uses the previous 
+        daysteps of data to predict the next day's price."
+
+      - title: Simple Blockchain in Go
+        link: https://github.com/shusunny/Go-Practice/tree/master/Simple-blockchain
+        tagline: "A blockchain program for library system made with golang, include the basic ideas such as Hash, Validation and Web Server."
+
+      
 
 
 
-# publications:
-#    title: Publications
-#    intro: 
-#
-#    papers:
-#      - title: The Art of Computer Programming
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
+publications:
+    title: Licenses & Certifications
+    intro: 
+
+    papers:
+      - title: Natural Language Processing Specialization
+        authors: Coursera
+        conference: LRD24KXY43KZ
+
+    papers:
+      - title: Deep Learning Specialization
+        authors: Coursera
+        conference: BGJJPEZNGZQR
+
+    papers:
+      - title: Web Development w/ Go Programming Language
+        authors: Udemy
+        conference: UC-UNWMHK94
+
+    papers:
+      - title: Machine Learning
+        authors: Coursera
+        conference: YJXQEXFUK7DF
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python
-        level: 85%
+      - name: Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
+      Data Visualization, Business Modeling, Blockchain, Decentralized Applications (DApps), Web Development, 
+      Amazon Web Services (AWS), TensorFlow, Python, Golang, C/C++, MATLAB, SQL/MongoDB.
 
-      - name: Golang
-        level: 95%
-
-      - name: Blockchain
-        level: 80%
-
-      - name: Machine Learning
-        level: 95%
-
-      - name: Deep Learning
-        level: 75%
-
-      - name: SQL/MongoDB
-        level: 85%  
-
-      - name: AWS/Google Cloud
-        level: 90%  
-
-      - name: Web Development
-        level: 80%  
+      #- level: 80%  
 
 
 
