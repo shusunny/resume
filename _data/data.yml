@@ -134,28 +134,28 @@ projects:
         tagline: "A blockchain program for library system made with golang, include the basic ideas such as Hash, Validation and Web Server."
 
       
-
-
-
 publications:
     title: Licenses & Certifications
     intro: 
 
     papers:
       - title: Natural Language Processing Specialization
-        link:
+        link: https://www.coursera.org/account/accomplishments/specialization/certificate/LRD24KXY43KZ
         authors: Coursera
         conference: LRD24KXY43KZ
 
       - title: Deep Learning Specialization
+        link: https://www.coursera.org/account/accomplishments/specialization/BGJJPEZNGZQR
         authors: Coursera
         conference: BGJJPEZNGZQR
 
       - title: Web Development w/ Go Programming Language
+        link: http://ude.my/UC-UNWMHK94
         authors: Udemy
         conference: UC-UNWMHK94
 
       - title: Machine Learning
+        link: https://www.coursera.org/account/accomplishments/verify/YJXQEXFUK7DF
         authors: Coursera
         conference: YJXQEXFUK7DF
 
@@ -173,9 +173,12 @@ skills:
       - name: Machine Learning
         level: 90%  
       
+      - name: Data Mining
+        level: 90%  
+      
       - name: Business Modeling
         level: 90%  
-
+      
       - name: Natural Language Processing
         level: 70%  
       
