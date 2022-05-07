@@ -50,6 +50,7 @@ career-profile:
       including data acquisition, data processing, features scaling, model construction, evaluation and data 
       visualization. Specialized in Statistics Analysis, Data Mining, Machine Learning, NLP tasks, Blockchain and Cryptocurrency.
 
+
 education:
 
     - degree: Master of Computer Science
@@ -161,11 +162,13 @@ publications:
 skills:
     title: Skills
 
-    toolset:
-      - name: Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
+    toolset: Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
       Data Visualization, Business Modeling, Blockchain, Decentralized Applications (DApps), Web Development, 
       Amazon Web Services (AWS), TensorFlow, Python, Golang, C/C++, MATLAB, SQL/MongoDB.
-
+      
+      # - name: Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
+      # Data Visualization, Business Modeling, Blockchain, Decentralized Applications (DApps), Web Development, 
+      # Amazon Web Services (AWS), TensorFlow, Python, Golang, C/C++, MATLAB, SQL/MongoDB.
       #- level: 80%  
 
 
