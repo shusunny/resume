@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/Resume_ZhenSun.pdf
+    pdf: /resume/assets/Resume_ZhenSun.pdf
 
     languages:
       - idiom: Chinese
@@ -143,6 +143,7 @@ publications:
 
     papers:
       - title: Natural Language Processing Specialization
+        link:
         authors: Coursera
         conference: LRD24KXY43KZ
 
@@ -178,7 +179,7 @@ skills:
       - name: Natural Language Processing
         level: 70%  
       
-      - name: Python, Go
+      - name: Python, Go, C
         level: 80%  
 
       - name: AWS, SQL
