@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -17,11 +17,14 @@ sidebar:
     website: shusunny.github.io/ #do not add http://
     linkedin: shusunny
     github: shusunny
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: # '@sunzhen35'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: /assets/Resume_ZhenSun.pdf
 
     languages:
       - idiom: Chinese
@@ -29,7 +32,7 @@ sidebar:
 
       - idiom: English
         level: Advanced
-        
+
     interests:
       - item: Travel
         link: https://www.flickr.com/photos/shusunny/
@@ -49,7 +52,6 @@ career-profile:
       Proficient in managing the entire data science project life cycle and actively involved in all the phases 
       including data acquisition, data processing, features scaling, model construction, evaluation and data 
       visualization. Specialized in Statistics Analysis, Data Mining, Machine Learning, NLP tasks, Blockchain and Cryptocurrency.
-
 
 education:
 
@@ -144,17 +146,14 @@ publications:
         authors: Coursera
         conference: LRD24KXY43KZ
 
-    papers:
       - title: Deep Learning Specialization
         authors: Coursera
         conference: BGJJPEZNGZQR
 
-    papers:
       - title: Web Development w/ Go Programming Language
         authors: Udemy
         conference: UC-UNWMHK94
 
-    papers:
       - title: Machine Learning
         authors: Coursera
         conference: YJXQEXFUK7DF
@@ -162,14 +161,31 @@ publications:
 skills:
     title: Skills
 
-    toolset: Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
-      Data Visualization, Business Modeling, Blockchain, Decentralized Applications (DApps), Web Development, 
-      Amazon Web Services (AWS), TensorFlow, Python, Golang, C/C++, MATLAB, SQL/MongoDB.
+    toolset: 
+    # Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
+    #  Data Visualization, Business Modeling, Blockchain, Decentralized Applications (DApps), Web Development, 
+    #  Amazon Web Services (AWS), TensorFlow, Python, Golang, C/C++, MATLAB, SQL/MongoDB.
       
-      # - name: Data Analysis, Machine Learning, Natural Language Processing (NLP), Data Mining, Quantitative Research, 
-      # Data Visualization, Business Modeling, Blockchain, Decentralized Applications (DApps), Web Development, 
-      # Amazon Web Services (AWS), TensorFlow, Python, Golang, C/C++, MATLAB, SQL/MongoDB.
-      #- level: 80%  
+      - name: Data Analysis
+        level: 100%  
+
+      - name: Machine Learning
+        level: 90%  
+      
+      - name: Business Modeling
+        level: 90%  
+
+      - name: Natural Language Processing
+        level: 70%  
+      
+      - name: Python, Go
+        level: 80%  
+
+      - name: AWS, SQL
+        level: 80%  
+
+      - name: Blockchain, DApps
+        level: 70%  
 
 
 
